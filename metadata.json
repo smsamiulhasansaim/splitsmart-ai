@@ -1,0 +1,7 @@
+{
+  "name": "SplitSmart AI",
+  "description": "An intelligent bill-splitting application that uses Gemini to parse receipts from images and assign costs through natural language chat commands.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
